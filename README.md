@@ -1,3 +1,5 @@
+![alt text](https://github.com/mkfink/esp32-10-channel-led/blob/main/board.png?raw=true)
+
 ESP32-based 10-Channel LED controller for WS2815 or similar
 * Designed to run WLED
 * Powerpole or barrel jack compatible
