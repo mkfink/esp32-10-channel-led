@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "Custom")(type "KiCad")(uri "${KIPRJMOD}/Custom.pretty")(options "")(descr ""))
+  (lib (name "esp32-prog-header")(type "KiCad")(uri "${KIPRJMOD}/esp32-prog-header.pretty")(options "")(descr ""))
+  (lib (name "jst-xh-4-mod")(type "KiCad")(uri "${KIPRJMOD}/jst-xh-4-mod.pretty")(options "")(descr ""))
+)
